@@ -5,7 +5,7 @@
 	<artifactId>test2</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Test2 Maven Webapp</name>
+	<name>Test2 project</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
@@ -38,4 +38,6 @@
 			</plugin>
 		</plugins>
 	</build>
+
+
 </project>
