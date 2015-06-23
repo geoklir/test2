@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>My test web app</name>
-	<url>http://www.mytestwebaoo.com</url>
+	<url>http://www.mytestwebaoocom</url>
 
 	<dependencies>
 		<dependency>
