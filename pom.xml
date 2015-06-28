@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>My test web app</name>
-	<url>http://www.mytestwebaoocom</url>
+	<url>http://www.mytest2.com</url>
 
 	<dependencies>
 		<dependency>
@@ -15,8 +15,6 @@
 			<version>3.0.1</version>
 			<scope>provided</scope>
 		</dependency>
-
-
 
 		<dependency>
 			<groupId>junit</groupId>
