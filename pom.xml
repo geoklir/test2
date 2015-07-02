@@ -5,7 +5,7 @@
 	<artifactId>test2</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>My test web app (crazy1)</name>
+	<name>My test web app</name>
 	<url>http://www.mytest2.com</url>
 
 	<dependencies>
@@ -31,7 +31,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>test2-crazy</finalName>
+		<finalName>test2</finalName>
 
 		<plugins>
 			<plugin>
