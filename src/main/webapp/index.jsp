@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello index page</title>
+<title>test2 - welcome page</title>
 </head>
 <body>
 <h2>Hello World and welcome to our page from test repo! This is a change in crazy2 to change something magically</h2>
