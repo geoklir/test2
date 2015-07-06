@@ -9,6 +9,7 @@
 <h4>from my mpourdelo 1</h4>
 <footer>
 A basic footer area
+copyright@2005
 </footer>
 </body>
 </html>
