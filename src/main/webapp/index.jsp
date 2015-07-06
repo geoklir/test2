@@ -8,8 +8,7 @@
 <h3>For more info please check the home page</h3>
 <h4>from my mpourdelo 1</h4>
 <footer>
-A basic footer area
-copyright@2005
+Copyright@2005
 </footer>
 </body>
 </html>
