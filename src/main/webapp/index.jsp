@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>Page title</h1>
-<p>Text here, loren ipsum</p>
+<p>Text here, loren ipsum blah blah</p>
 <footer>
 Copyright@2005, george web development
 </footer>
