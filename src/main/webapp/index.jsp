@@ -4,9 +4,9 @@
 </head>
 <body>
 <h1>Page title</h1>
-<p>Text here</p>
+<p>Text here, loren ipsum</p>
 <footer>
-Copyright@2005
+Copyright@2005, george web development
 </footer>
 </body>
 </html>
