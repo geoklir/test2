@@ -6,7 +6,7 @@
 <h1>Page title</h1>
 <p>Text here</p>
 <footer>
-Copyright@2005
+Copyright@2005 , takis images
 </footer>
 </body>
 </html>
