@@ -3,7 +3,7 @@
 	<groupId>com.geoklir.tests</groupId>
 	<artifactId>test2</artifactId>
 	<packaging>war</packaging>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	<name>My test web app</name>
 	<url>http://www.mytest2.com</url>
 
