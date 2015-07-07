@@ -11,5 +11,8 @@ Copyright
 <footer>
 A second footer
 </footer>
+<xfooter>
+random footer
+</xfooter>
 </body>
 </html>
