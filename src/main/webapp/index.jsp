@@ -8,5 +8,6 @@
 <footer>
 Copyright@2005, @takis photos, takis2
 </footer>
+COnvetional second footer
 </body>
 </html>
