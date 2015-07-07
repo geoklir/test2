@@ -6,7 +6,7 @@
 <h1>Page title</h1>
 <p>Text here, loren ipsum and more details from takis</p>
 <footer>
-Copyright@2005, @takis photos
+Copyright@2005, @takis photos, takis2
 </footer>
 </body>
 </html>
