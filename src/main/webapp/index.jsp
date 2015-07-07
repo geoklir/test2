@@ -4,12 +4,12 @@
 </head>
 <body>
 <h1>Page title</h1>
-<p>Text here, loren ipsum, george details and more details from takis</p>
+<p>Text here, loren ipsum</p>
 <footer>
-Copyright@2005, @takis photos, takis2
+Copyright
 </footer>
 <footer>
-A second footer (crazy 3 exp)
+A second footer
 </footer>
 </body>
 </html>
